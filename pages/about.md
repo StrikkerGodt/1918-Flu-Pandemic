@@ -7,29 +7,57 @@ permalink: /about.html
 
 {% include about/jumbotron.html %}
 
-# About {{ site.title }}.
+# About The 1918 Influenza Pandemic
 
-This site is generated using `collectionbuilder-gh`, a project to generate a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+## The 1918 Influenza 
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+In 1918 the world experienced what is considered the most severe pandemic in modern history, the Influenza of 1918. 
+Also known as the Spanish Flu, the disease was far reaching, infecting an approximated 500 million people worldwide. 
+In three waves spanning 15 months the influenza killed an estimated 50-100 million people worldwide with 675,000 deaths in the United States alone. 
+The first, and most mild, wave of the influenza hit in the spring of 1918. 
+During this wave, there were fewer deaths and many people recovered after a couple of days. Autumn of 1918 brought the second wave, which was the most virulent and deadly.
+Idaho reported its first cases of the influenza in September in Canyon County, and by October there were cases across the state from Coeur d’Alene to Lewiston to Pocatello. 
+October saw the University of Idaho’s first cases diagnosed in soldiers who had joined the Student Army Training Corps. 
+In the weeks following these diagnoses, the university and state took direct action to prevent its spread, including quarantine orders, requiring face coverings, and the avoidance of large crowds. 
+The final wave of the influenza came in the winter and spring of 1919 and by summer of 1919 it appeared that the influenza had run its course and the pandemic was over. 
 
- `collectionbuilder-gh` is intended as a simple template for hands-on teaching about digital libraries.
-It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
+## World War I and the Student Army Training Corps
 
-Similar learning experiences use DAMS/[CMS](https://en.wikipedia.org/wiki/Content_management_system) platforms that are often overkill for one-off projects. Although CMS feature familiar GUI administration interfaces, they are not simple to learn and customize.
+Starting in the fall of 1918, the University of Idaho began receiving hundreds of young men to the Student Army Training Corps (SATC).
+A program created by the US War Department, SATC was a way for young men to train as soldiers to fight in World War I, while also taking college courses. 
+At the University of Idaho approximately 500 men joined the program in two sections for academic and vocational training.
 
-`collectionbuilder-gh` aims to be well documented and easy to configure by following the example.
-A project in "minimal computing," it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
+Mid-October brought SATC men from across the country to the University of Idaho, and with them three mild cases of the influenza. 
+Upon the diagnosis of these individuals the university immediately took action, closing the university for several days as a preventative measure against the spread of the disease. 
+Days after the university’s announcement President Lindley received word that the State Board of Health was enacting a quarantine on all state institutions. 
+After the influenza had passed it was estimated that 200 SATC men had been infected and there were 12 reported deaths. 
 
-## Learn about:
+## Care of Patients
 
-- Git and GitHub basics for collaboration and project management
-- [Markdown](https://guides.github.com/features/mastering-markdown/) for plaintext writing and content creation
-- HTML, CSS, and JS literacy
-- commandline literacy
-- [Jekyll](https://jekyllrb.com/) basics
-- working in the Open, open source and open data
-- digital libraries concepts such as "collections as data", minimal computing, data-driven design
+Before the influenza hit the university, there was a shortage of physicians and medical professionals across the nation. 
+Many doctors had been called away to serve their country in the military. Dr. Carithers, owner of the Inland Hospital in Moscow, was one such physician. 
+With these doctors gone many communities were unprepared to care for the vast number of cases that would ultimately come their way. 
+This became especially apparent when health care professionals caught the infection themselves and were no longer able to care for others.
 
-{% include about/credits.md %}
+In communities with a shortage of doctors the American Red Cross was vital in fighting the influenza. 
+Across the nation they recruited thousands of nurses and volunteers who worked to provide equipment and supplies to hospitals, feed and care for influenza patients, and more. 
+Many community members of Moscow and the University of Idaho joined the Red Cross to help the war effort. 
+When the influenza hit the region, they began serving patients and coordinating nursing efforts in the area.
+
+Beyond doctors, nurses, and volunteers, patients also needed space and beds for recovery. 
+As more members of the SATC were diagnosed with the influenza, more space was needed and multiple auxiliary hospitals were established to help care for the patients. 
+With Dr. Carithers absent, Inland Hospital was primarily used as the headquarters for SATC patients. 
+The most severe cases of the influenza were sent to Gritman Hospital, while fairly severe cases remained at Inland Hospital. 
+Several houses in town were used for mild cases and those recovering, most notably the Alpha Kappa Epsilon House and the Elks Club House.
+
+## University Quarantine
+
+
+With a quarantine in effect, many university activities were cancelled. Students living off campus were not allowed to attend classes. 
+Steps were eventually taken so these students could receive a health certificate allowing them to return to campus to resume classes. 
+However, once they were on campus during the quarantine, they could not leave again.
+
+Not all activities were banned across campus, but many social activities, such as parties and dances, were indefinitely postponed. 
+Living groups remained active in whatever ways they could and recorded these activities in the University Argonaut’s “Quarantine Notes.” 
+Many of the women on campus took an active role to fight against the pandemic during quarantine. 
+Women in home economics classes cooked meals for patients, women living groups on campus made gauze masks for patients, and women across campus and the community served as nurses working with the local Red Cross.
