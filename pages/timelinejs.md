@@ -1,5 +1,5 @@
 ---
-title: The-Flu-On-Campus
+title: Influenza In The Campus News
 layout: full-width-page
 permalink: /timelinejs.html
 # a timeline visualization will be added below the content in this file
