@@ -20,7 +20,7 @@
       {% for item in items %}{% if item.date %}{
         "media": {
           "url": "{% if item.format contains 'audio' %}{{ '/assets/img/audio.svg' | relative_url }}{% elsif item.format contains 'application' %}{{ '/assets/img/pdf.svg' | relative_url }}{% elsif item.youtubeid %}{{ 'https://img.youtube.com/vi/' | append: item.youtubeid | append: '/maxresdefault.jpg' }}{% else %}{{ item.filename | prepend: '/objects/' | relative_url }}{% endif %}",
-          "caption": {{ item.title | jsonify }},
+          "caption": {{ item.headline | jsonify }},
           "link": "{{ '/item.html' | relative_url | append: '?id=' | append: item.objectid }}",
           "credit": "{{ site.title }}"
         },
@@ -31,7 +31,7 @@
           "year": "{{ item.date }}"{% endif %}
         },
         "text": {
-          "headline": {{ item.title | jsonify }}{% if item.description %},
+          "headline": {{ item.headline | jsonify }}{% if item.description %},
           "text": {{ item.description | jsonify }}{% endif %}
         }
       }{% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
