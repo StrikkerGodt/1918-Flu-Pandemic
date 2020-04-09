@@ -20,10 +20,10 @@ source-code: https://github.com/StrikkerGodt/1918-Flu-Pandemic
 # title of site appears in banner
 title: 1918 Flu Pandemic Digital Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Exhibit looking at the impact of the 1918 flu on the University of Idaho
+tagline: Looking at the University of Idaho and the 1918 Influenza 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "In 1918 the world was hit by a virulent strain of influenza. Becoming a global pandemic, it affected approximately 500 million individuals worldwide. The disease spread and eventually came to the University of Idaho, primarily infecting members of the newly established Student Army Training Corps. In response to the pandemic the university worked to stop the spread of the disease by cancelling activities, enacting a quarantine, using gauze face masks, and other measures. This exhibit includes correspondence, reports, and news articles from the time of the 1918 influenza outbreak to highlight this significant time, not only in world history, but local history."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: StrikkerGodt
 
